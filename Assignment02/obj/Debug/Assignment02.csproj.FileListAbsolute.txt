@@ -1,0 +1,16 @@
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.AssemblyReference.cache
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\NUnit3.TestAdapter.dll
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\nunit.engine.dll
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\nunit.engine.api.dll
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\nunit.engine.core.dll
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\testcentric.engine.metadata.dll
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\Assignment02.exe.config
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\Assignment02.exe
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\Assignment02.pdb
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\nunit.framework.dll
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\bin\Debug\nunit.framework.xml
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.CopyComplete
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\obj\Debug\Assignment02.exe
+D:\Assignments\SEM 2\QA Testing\Assignment02\Assignment02\obj\Debug\Assignment02.pdb
